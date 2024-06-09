@@ -2,7 +2,6 @@
   "name": "podcastr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Akmeena4u/AIPodcaster.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
