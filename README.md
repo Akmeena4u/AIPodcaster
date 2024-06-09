@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/zfAb95tJvZQ" target="_blank">
       <img src="https://github.com/adrianhajdin/jsm_podcastr/assets/151519281/f61a58c2-f144-41f7-8bc9-5ad14752ceb3" alt="Project Banner">
     </a>
   <br />
