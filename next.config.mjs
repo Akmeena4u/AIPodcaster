@@ -3,7 +3,7 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true
   },
- basePath: '/https://github.com/Akmeena4u/AIPodcaster.git',
+// basePath: '/https://github.com/Akmeena4u/AIPodcaster.git',
   images: {
     remotePatterns: [
       {
