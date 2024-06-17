@@ -236,6 +236,7 @@ By following these steps, you’ve integrated Clerk into your Next.js applicatio
 
 By integrating Clerk with Next.js, you can streamline the process of adding authentication and user management to your application, ensuring a secure and seamless user experience.
 
+</details>
 ---
 <details>
 <summary>Convex as Backend </summary>
